@@ -90,11 +90,12 @@ bitsquatting,czowdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.clou
 bitsquatting,growdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 bitsquatting,krowdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 bitsquatting,srowdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
+homoglyph,crovvdstrikc.com,,,,
+homoglyph,crovvdstrike.com,15.197.148.33,,mailstore1.secureserver.net,ns69.domaincontrol.com
 homoglyph,cr0vvdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,evangeline.ns.cloudflare.com
 homoglyph,cr0wbstrike.com,,,,
 homoglyph,cr0wclstrike.com,,,,
 homoglyph,cr0wdlstrike.com,,,,
-homoglyph,crovvdstrike.com,15.197.148.33,,mailstore1.secureserver.net,ns69.domaincontrol.com
 homoglyph,cr0wdstr1ke.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 homoglyph,cr0wdstrikc.com,,,,
 homoglyph,cr0wdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
@@ -107,7 +108,6 @@ homoglyph,crovvbstrike.com,,,,
 homoglyph,crovvclstrike.com,,,,
 homoglyph,crovvdlstrike.com,,,,
 homoglyph,crovvdstr1ke.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
-homoglyph,crovvdstrikc.com,,,,
 homoglyph,crovvdstrilce.com,,,,
 homoglyph,crovvdstrlke.com,,,,
 homoglyph,crowblstrike.com,,,,
@@ -7604,7 +7604,7 @@ hyphenation,crowdstrik-e.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.clou
 insertion,crowdstrilke.com,104.21.83.54,2606:4700:3030::6815:5336,,eric.ns.cloudflare.com
 insertion,crowdstriike.com,165.160.13.20,,custmx.cscdns.net,dns1.cscdns.net
 insertion,c4rowdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
-insertion,c5rowdstrike.com,,,,eric.ns.cloudflare.com
+insertion,c5rowdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 insertion,cdrowdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 insertion,cerowdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
 insertion,cfrowdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,eric.ns.cloudflare.com
