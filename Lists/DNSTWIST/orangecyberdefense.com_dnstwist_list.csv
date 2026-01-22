@@ -1,5 +1,5 @@
 fuzzer,domain,dns_a,dns_aaaa,dns_mx,dns_ns
-*original,orangecyberdefense.com,23.53.35.137,,orangecyberdefense-com.mail.protection.outlook.com,a1-84.akam.net
+*original,orangecyberdefense.com,104.77.183.16,,orangecyberdefense-com.mail.protection.outlook.com,a1-84.akam.net
 addition,orangecyberdefense0.com,,,,
 addition,orangecyberdefense1.com,,,,
 addition,orangecyberdefense2.com,,,,
@@ -21176,7 +21176,7 @@ subdomain,o.rangecyberdefense.com,,,,
 subdomain,or.angecyberdefense.com,,,,
 subdomain,ora.ngecyberdefense.com,,,,
 subdomain,oran.gecyberdefense.com,,,,
-subdomain,orang.ecyberdefense.com,13.223.25.84,2600:1f18:4ae:c605:dd5d:b838:5816:d7fb,anmail.namebrightmail.com,nsg1.namebrightdns.com
+subdomain,orang.ecyberdefense.com,52.201.53.166,2600:1f18:4ae:c605:f094:2a0a:4985:526e,,nsg1.namebrightdns.com
 subdomain,orange.cyberdefense.com,,,,
 subdomain,orangec.yberdefense.com,,,,
 subdomain,orangecy.berdefense.com,,,,
