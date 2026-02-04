@@ -1628,7 +1628,7 @@ hyphenation,tickets.p-aris2024.org,,,,
 hyphenation,tickets.pa-ris2024.org,,,,
 hyphenation,tickets.par-is2024.org,,,,
 hyphenation,tickets.pari-s2024.org,,,,
-hyphenation,tickets.paris-2024.org,172.64.80.1,2606:4700:3030::ac43:98f4,,
+hyphenation,tickets.paris-2024.org,104.21.64.166,2606:4700:130:436c:6f75:6466:6c61:7265,,
 hyphenation,tickets.paris2-024.org,,,,
 hyphenation,tickets.paris20-24.org,,,,
 hyphenation,tickets.paris202-4.org,,,,
@@ -1787,7 +1787,7 @@ subdomain,tickets.par.is2024.org,,,,
 subdomain,tickets.pari.s2024.org,,,,
 subdomain,tickets.paris.2024.org,104.247.81.99,,mail.h-email.net,ns1.parkingcrew.net
 subdomain,tickets.paris2.024.org,,,,
-subdomain,tickets.paris20.24.org,192.155.84.236,2600:3c01::2000:3aff:feb3:2e94,mail.mailerhost.net,chichi.ns.giantpanda.com
+subdomain,tickets.paris20.24.org,66.175.209.179,2600:3c03::f03c:95ff:fe91:5d52,mail.mailerhost.net,chichi.ns.giantpanda.com
 transposition,tickets.apris2024.org,,,,
 transposition,tickets.pairs2024.org,,,,
 transposition,tickets.pari2s024.org,,,,
