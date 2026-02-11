@@ -1,5 +1,5 @@
 fuzzer,domain,dns_a,dns_aaaa,dns_mx,dns_ns
-*original,orangecyberdefense.com,23.64.112.82,,orangecyberdefense-com.mail.protection.outlook.com,a1-84.akam.net
+*original,orangecyberdefense.com,23.221.227.197,,orangecyberdefense-com.mail.protection.outlook.com,a1-84.akam.net
 addition,orangecyberdefense0.com,,,,
 addition,orangecyberdefense1.com,,,,
 addition,orangecyberdefense2.com,,,,
@@ -21176,14 +21176,14 @@ subdomain,o.rangecyberdefense.com,,,,
 subdomain,or.angecyberdefense.com,,,,
 subdomain,ora.ngecyberdefense.com,,,,
 subdomain,oran.gecyberdefense.com,,,,
+subdomain,orangecybe.rdefense.com,15.197.204.56,,,ns01.cashparking.com
+subdomain,orangecyberd.efense.com,159.89.244.183,!ServFail,,!ServFail
 subdomain,orang.ecyberdefense.com,52.201.53.166,2600:1f18:4ae:c605:f094:2a0a:4985:526e,,nsg1.namebrightdns.com
 subdomain,orange.cyberdefense.com,,,,
 subdomain,orangec.yberdefense.com,,,,
 subdomain,orangecy.berdefense.com,,,,
 subdomain,orangecyb.erdefense.com,,,,
-subdomain,orangecybe.rdefense.com,15.197.204.56,,,ns01.cashparking.com
 subdomain,orangecyber.defense.com,,,,
-subdomain,orangecyberd.efense.com,159.89.244.183,!ServFail,,!ServFail
 subdomain,orangecyberde.fense.com,,,,
 subdomain,orangecyberdef.ense.com,,,,
 subdomain,orangecyberdefe.nse.com,,,,
