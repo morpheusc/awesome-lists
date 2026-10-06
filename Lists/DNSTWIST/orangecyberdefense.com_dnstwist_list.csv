@@ -1,5 +1,5 @@
 fuzzer,domain,dns_a,dns_aaaa,dns_mx,dns_ns
-*original,orangecyberdefense.com,23.212.249.78,,orangecyberdefense-com.mail.protection.outlook.com,a1-84.akam.net
+*original,orangecyberdefense.com,23.213.186.197,,orangecyberdefense-com.mail.protection.outlook.com,a1-84.akam.net
 addition,orangecyberdefense0.com,,,,
 addition,orangecyberdefense1.com,,,,
 addition,orangecyberdefense2.com,,,,
@@ -28,7 +28,7 @@ addition,orangecyberdefenseo.com,,,,
 addition,orangecyberdefensep.com,,,,
 addition,orangecyberdefenseq.com,,,,
 addition,orangecyberdefenser.com,,,,
-addition,orangecyberdefenses.com,198.185.159.144,,smtp.google.com,ns-cloud-b1.googledomains.com
+addition,orangecyberdefenses.com,,,,
 addition,orangecyberdefenset.com,,,,
 addition,orangecyberdefenseu.com,,,,
 addition,orangecyberdefensev.com,,,,
